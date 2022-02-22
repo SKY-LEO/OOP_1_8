@@ -1,7 +1,7 @@
 package Figures;
 
 public abstract class Shape {
-    public String color;
+    String color;
 
     public Shape() {
 
